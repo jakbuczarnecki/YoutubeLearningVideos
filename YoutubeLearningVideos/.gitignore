@@ -1,0 +1,90 @@
+﻿# 🧱 Foldery buildów
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# 🧰 Pliki konfiguracyjne środowiska
+.vs/
+*.user
+*.suo
+*.userosscache
+*.userprefs
+
+# ⚙️ DevExpress i inne licencje
+**/licenses.licx
+*.licx
+
+# 🗂️ Pliki tymczasowe / cache
+*.cache
+*.log
+*.tmp
+*.temp
+*.svclog
+
+# 🔧 Pliki kompilacji .NET
+*.dll
+*.exe
+*.pdb
+*.mdb
+*.xml  # dokumentacja generowana automatycznie
+*.manifest
+
+# 🔨 NuGet
+*.nupkg
+*.nuspec
+packages/
+*.snupkg
+project.lock.json
+
+# 🔐 Sekrety / ustawienia lokalne
+appsettings.Development.json
+appsettings.Local.json
+*.secret.json
+
+# 🧩 Backupy, profile, itp.
+*.bak
+*.orig
+*.old
+*.swp
+*.dbmdl
+*.backup
+~$*
+
+# 💾 Rider / ReSharper / JetBrains
+.idea/
+_ReSharper*/
+*.DotSettings.user
+*.sln.iml
+
+# 🧰 MSBuild i Visual Studio
+*.vspscc
+*.vssscc
+*.psess
+*.vsp
+*.vspx
+*.pidb
+*.dbmdl
+
+# 🔄 Publish / Deployment
+publish/
+dist/
+artifacts/
+TestResults/
+*.Publish.xml
+*.pubxml
+*.publishproj
+*.wixobj
+*.wixpdb
+
+# 🔧 Azure / CI/CD
+.vscode/
+*.azureconfig
+*.azurepubxml
+
+# 🗃️ Systemowe / OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
