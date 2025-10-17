@@ -6413,7 +6413,8 @@
     <CreateDate>2025-10-09T09:00:20.5658726+02:00</CreateDate>
     <Url>https://www.youtube.com/watch?v=F9mgEFor0cA</Url>
     <Title>LangGraph + MCP Changes Everything | The Key to Scalable AI Agents</Title>
-    <Status>Running</Status>
+    <Status>Completed</Status>
+    <ProcessedDate>2025-10-13T17:11:59.4351433+02:00</ProcessedDate>
     <SearchLink>false</SearchLink>
   </YoutubeVideoItem>
   <YoutubeVideoItem>
@@ -6429,6 +6430,7 @@
     <Title>Build a Custom MCP Client &amp; Server from Scratch  Python Tutorial</Title>
     <Status>Completed</Status>
     <ProcessedDate>2025-10-13T10:07:09.4996217+02:00</ProcessedDate>
+    <AdditionalInfo>bardzo mocno podstawowe zagadnienia</AdditionalInfo>
     <SearchLink>false</SearchLink>
   </YoutubeVideoItem>
   <YoutubeVideoItem>
@@ -6565,7 +6567,9 @@
     <CreateDate>2025-10-13T08:09:34.759356+02:00</CreateDate>
     <Url>https://www.youtube.com/watch?v=C-fKAzdTrLU</Url>
     <Title>Flutter Tutorial For Beginners In 1 Hour</Title>
-    <Status>Running</Status>
+    <Status>Completed</Status>
+    <ProcessedDate>2025-10-16T11:45:15.8854841+02:00</ProcessedDate>
+    <AdditionalInfo>Wąskie ale sensowne wprowadzenia w całkowite podstawy</AdditionalInfo>
     <SearchLink>false</SearchLink>
   </YoutubeVideoItem>
   <YoutubeVideoItem>
@@ -6579,6 +6583,320 @@
     <CreateDate>2025-10-13T08:34:29.6801728+02:00</CreateDate>
     <Url>https://www.youtube.com/watch?v=BTfcnxXevm0</Url>
     <Title>Build &amp; Deploy 3 Full-stack Mobile Apps That’ll Get You Hired | Full 10-Hour React Native Course</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-13T15:22:51.8145759+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=y72TrpffdSk</Url>
+    <Title>Chunks Aren’t Enough ... You NEED Context Expansion (n8n)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-13T15:25:34.3313631+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=ELFORM9fmss&amp;list=PLlzmAWV2yTgCjoZNF3hLX3puYJir9vSQO</Url>
+    <Title>Flutter Clean Architecture Full Course For Beginners - Bloc, Supabase, Hive, GetIt</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-13T15:42:53.0066247+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=YAxA-7ZSn-0</Url>
+    <Title>ChatGPT Apps SDK: Your first MCP Server with Python, FastMCP, &amp; FastAPI</Title>
+    <Status>Completed</Status>
+    <ProcessedDate>2025-10-15T14:31:55.5746817+02:00</ProcessedDate>
+    <AdditionalInfo>Krótki filmik ale świetne zagadnienie FastAPI + MCP + podpięcie do chatGPT</AdditionalInfo>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-13T18:09:23.4421843+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=vUYopHWOURg</Url>
+    <Title>Next.js Tutorial 2025 - Build a Full Stack Social App with React &amp; Next.js</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-13T18:10:28.7088736+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=Sklc_fQBmcs</Url>
+    <Title>Next.js in 100 Seconds // Plus Full Beginner's Tutorial</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-13T18:15:33.2084321+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=wm5gMKuwSYk</Url>
+    <Title>Next.js Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-14T12:08:24.3091246+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=RwSAODlohSY</Url>
+    <Title>Build &amp; Deploy Full Stack AI Resume Builder App using React js, ImageKit | MERN Stack Project</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-14T13:16:20.680549+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=kLd7nSkDxig</Url>
+    <Title>Master the NEW OpenAI Agent Builder In 1 Hour (Complete Course)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-14T13:17:45.9392266+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=U0boR8cqYqQ</Url>
+    <Title>Build End to End MCP Servers with Python (EASY) Tutorial | MCP CRASH COURSE | AI Web Scraping</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-14T13:18:37.093611+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=r5czi04KG6k</Url>
+    <Title>Build a Simple RAG (Retrieval Augument Generation) in Python using LangChain (Line-by-Line code)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-15T07:11:19.0596848+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=GSs4Dnz274k</Url>
+    <Title>Build Your Own Pocket Clone with React Native (Expo, SQLite, Reanimated, API Routes, IAP)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-15T07:21:38.5544255+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=7V1w5gnZ-kw</Url>
+    <Title>Guardrails for LLM Applications | Complete Tutorial for AI Developers WIth Guardrails AI</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-15T14:45:08.5256093+02:00</CreateDate>
+    <Url>https://www.youtube.com/results?search_query=next.js+tutorial</Url>
+    <Title>next.js tutorial</Title>
+    <Status>New</Status>
+    <SearchLink>true</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-15T18:56:32.7775037+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=V3cFlraeiVI</Url>
+    <Title>Flutter Full Course 2025 | Free Flutter App Development Course | Dart &amp; Flutter Training | MindMajix</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-15T18:56:46.4064262+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=OO_-MbnXQzY</Url>
+    <Title>Flutter Tutorial - Full Course - Project Based</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-15T18:57:14.9464278+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=CD1Y2DmL5JM&amp;t=5015s</Url>
+    <Title>Flutter Tutorial For Beginners in 3 Hours</Title>
+    <Status>Completed</Status>
+    <ProcessedDate>2025-10-17T10:39:59.9719613+02:00</ProcessedDate>
+    <AdditionalInfo>totalne podstawy ale sprawnie wytłumaczone</AdditionalInfo>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T07:22:20.5512249+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=NGh_Fdeg5N8</Url>
+    <Title>Langgraph - Advanced WorkFlows &amp; Real-world Applications</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T08:27:06.3761096+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=DosHnyq78xY</Url>
+    <Title>Intro to MCP Servers – Model Context Protocol with Python Course</Title>
+    <Status>Completed</Status>
+    <ProcessedDate>2025-10-17T10:25:20.1770794+02:00</ProcessedDate>
+    <AdditionalInfo>dziwny kurs nie pokazujący zbyt wiele nowych rzeczy</AdditionalInfo>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:04:35.0637791+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=UNS-ZIGBx2Y</Url>
+    <Title>📱 Flutter Login &amp; Registration UI | Clean Code, Reusable Components &amp; Figma Design</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:07:58.6395694+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=hvhQN05YNxc</Url>
+    <Title>001 - Build the full app design | Flutter API Course</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:10:18.4596938+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=s3P2a2lyWgY</Url>
+    <Title>Turn Figma Designs into FULLY RESPONSIVE Flutter Apps in Minutes!</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:12:56.3032724+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=wDOkdBfNKBY</Url>
+    <Title>Animated Weather App In Flutter | Modern Weather App</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:13:47.1740104+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=4Rm-9LhYFZg</Url>
+    <Title>Build a Modern Doctor Appointment App UI in Flutter - Full Tutorial (2025 UI Masterclass)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:15:04.7643152+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=nIRY_AGRGEA</Url>
+    <Title>Flutter Banking App UI | Clean &amp; Modern Screen Design</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:22:45.1343566+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=XJGno4fEcRs</Url>
+    <Title>🛒📱 Food Delivery App &amp; E-Commerce App in Flutter | Modern UI + State Management Tutorial</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:24:11.1579678+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=Og48xtwuj4U</Url>
+    <Title>Part 18 | Flutter Dating App -: Advanced Chat Features (,Replies, Icebreakers &amp; More!) | 2025</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:25:28.1058568+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=9G1DVqARxjU</Url>
+    <Title>Animated Chat Interface Using Flutter - Modern Chat UI In Flutter Tutorial</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:25:48.4847633+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=oVx6ZNzy2C0</Url>
+    <Title>Build a Modern Home Screen UI in Flutter | Full Tutorial for Beginners (2025)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:30:31.3139464+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=r2Jd2AdvTHM</Url>
+    <Title>Crypto App UI Tutorial in Flutter – Modern Clean Design 2025 (No Talking)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:31:47.8705717+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=Fm_wxwEChCk</Url>
+    <Title>Build a  Admin Dashboard with Flutter | Modern Design + Responsive Layout | Flutter UI</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:32:13.5735356+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=Z_DztduVDbU</Url>
+    <Title>Flutter E-Commerce App – Home Tab UI Design | Modern Shopping App UI in Flutter #6</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:33:09.0026851+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=Mt_9YiO5q1k</Url>
+    <Title>Complete Flutter E-Commerce App with Firebase &amp; Riverpod (User &amp; Admin App)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:36:23.0032966+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=iW401tFU-Is</Url>
+    <Title>🔥 Flutter Advanced Tutorial: Build a Complete ECommerce App UI from Scratch</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:37:22.7892644+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=7U5i2hVy3jg</Url>
+    <Title>Master Flutter: Build a Fully Functional Chat App with Firebase &amp; Cubit | GetIt | Clean Architecture</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:49:31.2904367+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=BU4jheqy7fI</Url>
+    <Title>Build an Blinkit Clone App with Flutter | Complete 2 Hour Masterclass (2025)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T15:49:53.2453032+02:00</CreateDate>
+    <Url>https://www.youtube.com/results?search_query=flutter+advanced&amp;sp=CAISBBABGAI%253D</Url>
+    <Title>flutter advanced</Title>
+    <Status>New</Status>
+    <SearchLink>true</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T17:07:52.5009157+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=RSdB7ZX9Z-Q</Url>
+    <Title>Flutter Authentication UI | Modern Login &amp; Signup Screen (No Words, Just Code)</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T17:09:28.7746417+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=t7lUSiddFd4</Url>
+    <Title>How to convert Figma Design into Flutter Code | DhiWise.com</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-16T17:10:02.0484278+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=U4IRh_AsoOs</Url>
+    <Title>🚀📱 Convert Figma design to Flutter App in 30 min | Flutter Tutorial for Beginners 2024</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-17T13:41:40.1116057+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=7dAt-JMSCVQ</Url>
+    <Title>Flutter E-commerce App With Backend | Food Delivery App  | Part 1</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-17T13:41:57.3060372+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=GQJovou6zuE</Url>
+    <Title>Flutter Shop App With Backend | Delivery App Tutorial | Full Course With API | Part 2</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-17T13:42:24.3965849+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=x4DydJKVvQk</Url>
+    <Title>Flutter Master Class Travel App | Flutter 3.13.0 for Beginners to Advanced | iOS &amp; Android Cubit</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-17T13:42:46.1164393+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=71AsYo2q_0Y</Url>
+    <Title>Flutter 3.10.0 Master Class for Beginners to Advanced | Ticket Booking App Development Tutorial</Title>
+    <Status>New</Status>
+    <SearchLink>false</SearchLink>
+  </YoutubeVideoItem>
+  <YoutubeVideoItem>
+    <CreateDate>2025-10-17T13:42:59.1398787+02:00</CreateDate>
+    <Url>https://www.youtube.com/watch?v=w5IYCoTk4Bs</Url>
+    <Title>React Native E-commerce App With Restful API | Crash Course</Title>
     <Status>New</Status>
     <SearchLink>false</SearchLink>
   </YoutubeVideoItem>
